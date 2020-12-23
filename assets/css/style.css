@@ -1,0 +1,32 @@
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    margin: 30px;
+    border: 1px solid purple;
+    border-radius: 25px;
+}
+img {
+    height: 100px;
+    width: 100px;
+    padding: 25px;
+}
+.points {
+    text-align: center;
+    margin: 10px;  
+}
+.win {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+table {
+    border-collapse: collapse;
+}
+th, td {
+    text-align: center;
+    padding: 5px;
+    border: 1px solid black;
+}
